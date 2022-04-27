@@ -109,10 +109,10 @@ You can check the logs in Heroku to see if it's running correctly.
 
 If you like this please consider using my referral link, I'd really appreciate it
 
-https://bakedbeans.io/?ref=0xCb7DCb16e7738C01BEf5F74AC727dE2da44AfD6F
+https://bakedbeans.io/?ref=0xd6DeDf149c0020CFe93166d3a0533Bdb3fA2Fbb6
 
 If you're feeling extra generous, send any tips here :) 
 
-`0xCb7DCb16e7738C01BEf5F74AC727dE2da44AfD6F`
+`0xd6DeDf149c0020CFe93166d3a0533Bdb3fA2Fbb6`
 
 Disclaimer: Note this is unaudited code and is not production ready for financial transactions.
